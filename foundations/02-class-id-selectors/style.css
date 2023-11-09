@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+.p1 {
+background-color: #ffb3b3;
+color: black;
+}
+.pspecial {
+    font-size: 24px;
+}
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+#div2 {
+    background-color: #88ff4d;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
